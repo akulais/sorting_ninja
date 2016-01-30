@@ -1,0 +1,11 @@
+* {
+	padding: 0;
+	margin: 0 auto;
+	font-family: serif;
+	width: 300px;
+	background-color: black;
+	}
+img {
+	border: 4px solid green;
+
+	}
